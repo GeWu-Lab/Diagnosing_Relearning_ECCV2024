@@ -1,7 +1,7 @@
 # Code of Diagnosing and Re-learning for Balanced Multimodal Learning
 The repo for "Diagnosing and Re-learning for Balanced Multimodal Learning", ECCV 2024
 
-Here is the official PyTorch implementation of ''*Diagnosing and Re-learning for Balanced Multimodal Learning*'', which dynimically diagnose uni-modal learning state and re-initialize uni-modal encoder to enhance both worse-learnt and well-learnt modalities. Please refer to our [ECCV 2024 paper](#) for more details.
+Here is the official PyTorch implementation of ''*Diagnosing and Re-learning for Balanced Multimodal Learning*'', which dynimically diagnose uni-modal learning state and re-initialize uni-modal encoder to enhance both worse-learnt and well-learnt modalities. Please refer to our [ECCV 2024 paper](https://arxiv.org/abs/2407.09705) for more details.
 
 **Paper Title: "Diagnosing and Re-learning for Balanced Multimodal Learning"**
 
